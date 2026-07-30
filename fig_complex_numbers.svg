@@ -1,137 +1,171 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<!-- Created with Inkscape (http://www.inkscape.org/) -->
-
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   id="svg2"
-   version="1.1"
-   inkscape:version="0.48.1 r9760"
-   width="197.5"
-   height="180"
-   xml:space="preserve"
-   sodipodi:docname="fig_complex_numbers.svg"
-   inkscape:export-filename="/Users/oreilly/svn_docs/physics/fig_complex_numbers.png"
-   inkscape:export-xdpi="150"
-   inkscape:export-ydpi="150"><metadata
-     id="metadata8"><rdf:RDF><cc:Work
-         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
-           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
-     id="defs6" /><sodipodi:namedview
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1"
-     objecttolerance="10"
-     gridtolerance="10"
-     guidetolerance="10"
-     inkscape:pageopacity="0"
-     inkscape:pageshadow="2"
-     inkscape:window-width="1071"
-     inkscape:window-height="888"
-     id="namedview4"
-     showgrid="false"
-     inkscape:zoom="1.4555556"
-     inkscape:cx="98.75"
-     inkscape:cy="90"
-     inkscape:window-x="0"
-     inkscape:window-y="0"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="g10" /><g
-     id="g10"
-     inkscape:groupmode="layer"
-     inkscape:label="fig.complex_numbers"
-     transform="matrix(1.25,0,0,-1.25,0,180)"><g
-       id="g12"
-       transform="scale(0.1,0.1)"><path
-         d="m 791.785,1234.54 0,-1204.6298"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:9.5606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path14" /><path
-         d="m 199.031,641.785 1204.629,0"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:9.5606;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path16" /><path
-         d="m 791.785,641.785 420.665,0"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path18" /><path
-         d="m 1135.97,660.906 76.48,-19.121 -76.48,-19.121"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path20" /><path
-         d="m 791.785,641.785 0,420.665"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path22" /><path
-         d="m 772.664,985.969 19.121,76.481 19.121,-76.481"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path24" /><g
-         id="g26"
-         transform="scale(10,10)"><text
-           transform="matrix(1,0,0,-1,123.157,50.2395)"
-           id="text28"><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="0 3.8204091 10.1992303 16.5780515"
-             y="0"
-             sodipodi:role="line"
-             id="tspan30">real</tspan><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="-61.1879 -58.6409606 -49.0842015 -42.7053803 -36.3265591 -33.7796197 -27.4007985 -21.0219773 -17.2015682"
-             y="-82.2211"
-             sodipodi:role="line"
-             id="tspan32">imaginary</tspan><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="-13.3848"
-             y="-19.1211"
-             id="tspan34">a</tspan><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="-40.1547"
-             y="-40.1543"
-             id="tspan36">b</tspan><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="-17.209 -11.47265 -8.2832394 -1.5831826 1.606228 7.9850492 11.1744598 17.8745166 21.0639272 23.6108666"
-             y="-51.627"
-             sodipodi:role="line"
-             id="tspan38">c = a + ib</tspan><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="-21.03322 -15.29687 -10.8339897 -7.6445791 -0.9445223 2.2448883 8.6237095 11.8131201 18.5131769 21.7025875 24.2495269"
-             y="34.4183"
-             sodipodi:role="line"
-             id="tspan40">c* = a − ib</tspan></text>
-</g><path
-         d="m 791.785,641.785 0,-420.664"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:114.727,38.2424;stroke-dashoffset:0"
-         id="path42" /><path
-         d="m 810.906,297.605 -19.121,-76.484 -19.121,76.484"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:114.727,38.2424;stroke-dashoffset:0"
-         id="path44" /><path
-         d="M 791.785,641.785 1116.85,985.969"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path46" /><path
-         d="m 1050.43,943.492 66.42,42.477 -38.62,-68.735"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:none"
-         id="path48" /><path
-         d="M 791.785,635.793 1116.85,291.609"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:114.727,38.2424;stroke-dashoffset:0"
-         id="path50" /><path
-         d="m 1078.23,360.344 38.62,-68.735 -66.42,42.477"
-         style="fill:none;stroke:#000000;stroke-opacity:1;stroke-width:19.1212;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:10;stroke-dasharray:114.727,38.2424;stroke-dashoffset:0"
-         id="path52" /><g
-         id="g54"
-         transform="scale(10,10)"><text
-           transform="matrix(1,0,0,-1,2.69375,99.9543)"
-           id="text56"><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:11.4727;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="0 5.73635 8.9257606 14.6621106 19.1249909 22.3144015 29.0144583 32.2038689 38.5826901 41.7721007 48.4721575 51.6615681"
-             y="0"
-             sodipodi:role="line"
-             id="tspan58">c c* = a + b</tspan></text>
-<text
-           transform="matrix(1,0,0,-1,44.76055,108.425)"
-           id="text60"><tspan
-             style="fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:none;font-family:Helvetica;font-variant:normal;font-weight:normal;font-size:7.64848;writing-mode:lr;-inkscape-font-specification:Helvetica"
-             x="0 21.03316703"
-             y="0"
-             sodipodi:role="line"
-             id="tspan62">22</tspan></text>
-</g></g></g></svg>
+  width="1280"
+  height="720"
+  viewBox="-32 -32 688 688"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs
+    id="defs">
+    <marker
+      id="Arrow2Mend"
+      inkscape:stockid="Arrow2Mend"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path-0"
+        style="stroke-width:0.62500000;stroke-linejoin:round;fill-rule:evenodd;"
+        transform="scale(0.6) rotate(180) translate(0,0)"
+        d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+    id="namedview180"
+    style="inkscape:cx:0;inkscape:cy:0;inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer1;">
+    <inkscape:grid
+      id="grid738"
+      style="type:xygrid;units:px;spacingx:16;spacingy:16;" />
+  </sodipodi:namedview>
+  <g
+    id="LayerBG"
+    style="style:;display:inline;insensitive:true;groupmode:layer;"
+    sodipodi:insensitive="true"
+    inkscape:groupmode="layer"
+    style="">
+    <rect
+      id="rect377"
+      style="fill-rule:nonzero;stroke-linejoin:miter;stroke:none;stroke-linecap:butt;fill:#FFFFFF;fill-opacity:1;"
+      x="-25.024456"
+      y="-23.756863"
+      width="675.6598"
+      height="675.0342"
+      rx="0"
+      ry="0" />
+    <ellipse
+      id="ellipse120"
+      style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      cx="307.17502"
+      cy="332.8406"
+      rx="249.93155"
+      ry="248.9924" />
+    <path
+      id="path177_Copy"
+      style="stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;stroke:#000000;stroke-linecap:butt;"
+      d="M8.132954 332.215L606.2169 333.4662" />
+    <path
+      id="path177"
+      style="stroke-width:1px;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+      d="M306.5493 631.8826L307.8006 33.79865" />
+  </g>
+  <g
+    id="Layer1"
+    style="groupmode:layer;style:;display:inline;insensitive:false;"
+    inkscape:groupmode="layer"
+    style="">
+    <path
+      id="path267"
+      style="stroke:#000000;stroke-linecap:butt;fill:none;stroke-linejoin:miter;stroke-opacity:1;marker-end:url(#Arrow2Mend);stroke-width:3px;stroke-dasharray:9,9;"
+      transform="none"
+      d="M307.3219 334.9867L517.1387 476.3794" />
+    <path
+      id="path267_Copy-13"
+      style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:3px;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;"
+      transform="none"
+      d="M306.5493 333.4663L516.366 192.0736" />
+    <path
+      id="path267_Copy-6"
+      style="stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;stroke:#000000;stroke-width:3px;"
+      d="M306.5493 333.8406L517.1387 333.3244" />
+    <path
+      id="path267_Copy"
+      style="stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;stroke:#000000;"
+      d="M306.5493 333.4662L307.2493 190.8395" />
+    <text
+      id="text826"
+      style="stroke:none;font-size:32px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="275.347"
+      y="264.9228">b</text>
+    <text
+      id="text826_Copy"
+      style="stroke:none;font-size:32px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="414.22482"
+      y="359.4135">a</text>
+    <text
+      id="text681"
+      style="text-decoration:none;direction:ltr;fill:#000000;stroke:none;font-size:32px;"
+      x="231.23523"
+      y="20.12122">imaginary</text>
+    <text
+      id="text504"
+      style="fill:#000000;stroke:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="567.2259"
+      y="361.7674">real</text>
+    <ellipse
+      id="ellipse447"
+      style="fill-opacity:1;stroke:none;fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;fill:#FF0000;"
+      cx="514.9417"
+      cy="474.86465"
+      rx="6.387165"
+      ry="6.3240423" />
+    <ellipse
+      id="ellipse447_Copy"
+      style="fill-rule:nonzero;stroke-linecap:butt;stroke-linejoin:miter;fill:#0000FF;fill-opacity:1;stroke:none;"
+      cx="514.9417"
+      cy="194.41888"
+      rx="6.387165"
+      ry="6.3240423" />
+    <text
+      id="text946"
+      style="text-decoration:none;direction:ltr;fill:#000000;stroke:none;font-size:32px;"
+      x="485.17697"
+      y="442.80743">z = a - ib</text>
+    <text
+      id="text946_Copy"
+      style="stroke:none;font-size:32px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="504.6804"
+      y="176.14859">z = a + ib</text>
+    <text
+      id="text41_Copy"
+      style="font-size:28px;text-decoration:none;direction:ltr;fill:#000000;stroke:none;"
+      x="497.95508"
+      y="435.40955">*</text>
+    <text
+      id="text41"
+      style="font-size:24px;text-decoration:none;direction:ltr;fill:#000000;stroke:none;"
+      x="421.98538"
+      y="274.0629">2</text>
+    <text
+      id="text41_Copy-28"
+      style="stroke:none;font-size:24px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="621.7273"
+      y="274.0629">2</text>
+    <text
+      id="text41_Copy-26"
+      style="font-size:24px;text-decoration:none;direction:ltr;fill:#000000;stroke:none;"
+      x="567.22595"
+      y="274.0629">2</text>
+    <text
+      id="text41_Copy-24"
+      style="stroke:none;font-size:28px;text-decoration:none;direction:ltr;fill:#000000;"
+      x="502.44418"
+      y="284.532">*</text>
+    <text
+      id="text464"
+      style="direction:ltr;fill:#000000;stroke:none;font-size:32px;text-decoration:none;"
+      x="524.8978"
+      y="288.7977">= a + b</text>
+    <text
+      id="text464_Copy"
+      style="fill:#000000;stroke:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="407.9535"
+      y="288.7977">r</text>
+    <text
+      id="text464_Copy_Copy"
+      style="fill:#000000;stroke:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="438.88995"
+      y="288.7977">= z z</text>
+  </g>
+</svg>

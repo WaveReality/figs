@@ -1,0 +1,158 @@
+<svg
+  width="1280"
+  height="720"
+  viewBox="-32 -32 688 688"
+  xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+  xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+  xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns="http://www.w3.org/2000/svg">
+  <defs
+    id="defs">
+    <marker
+      id="Arrow2Mend"
+      inkscape:stockid="Arrow2Mend"
+      style="overflow:visible"
+      refX="0"
+      refY="0"
+      orient="auto">
+      <path
+        id="path-0"
+        style="fill-rule:evenodd;stroke-width:0.62500000;stroke-linejoin:round;"
+        transform="scale(0.6) rotate(180) translate(0,0)"
+        d="M8.718588 4.033735L-2.207289 .01601326L8.718589 -4.001708C6.97309 -1.629647 6.983148 1.615744 8.718588 4.033735z" />
+    </marker>
+  </defs>
+  <sodipodi:namedview
+    id="namedview180"
+    style="inkscape:zoom:1;inkscape:document-units:px;inkscape:current-layer:Layer1;inkscape:cx:0;inkscape:cy:0;">
+    <inkscape:grid
+      id="grid738"
+      style="spacingy:16;type:xygrid;units:px;spacingx:16;" />
+  </sodipodi:namedview>
+  <g
+    id="LayerBG"
+    style="style:;display:inline;insensitive:true;groupmode:layer;"
+    sodipodi:insensitive="true"
+    inkscape:groupmode="layer"
+    style="">
+    <rect
+      id="rect377"
+      style="fill-rule:nonzero;stroke-linejoin:miter;stroke:none;stroke-linecap:butt;fill:#FFFFFF;fill-opacity:1;"
+      x="-25.024456"
+      y="-23.756863"
+      width="675.6598"
+      height="675.0342"
+      rx="0"
+      ry="0" />
+    <ellipse
+      id="ellipse120"
+      style="stroke-width:1px;fill:none;stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;"
+      cx="307.17502"
+      cy="332.8406"
+      rx="249.93155"
+      ry="248.9924" />
+    <path
+      id="path177_Copy"
+      style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      d="M8.132954 332.215L606.2169 333.4662" />
+    <path
+      id="path177"
+      style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1;stroke-width:1px;fill:none;"
+      d="M306.5493 631.8826L307.8006 33.79865" />
+  </g>
+  <g
+    id="Layer1"
+    style="insensitive:false;groupmode:layer;style:;display:inline;"
+    inkscape:groupmode="layer"
+    style="">
+    <path
+      id="path267"
+      style="stroke:#000000;fill:none;stroke-opacity:1;marker-end:url(#Arrow2Mend);stroke-linecap:butt;stroke-width:3px;stroke-linejoin:miter;stroke-dasharray:9,9;"
+      transform="none"
+      d="M308.6669 331.2251L427.3556 113.5" />
+    <path
+      id="path267_Copy-13"
+      style="stroke:#000000;stroke-linecap:butt;stroke-linejoin:miter;stroke-width:3px;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;"
+      transform="none"
+      d="M306.5493 333.4663L516.366 192.0736" />
+    <path
+      id="path267_Copy-6"
+      style="stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;"
+      d="M306.5493 333.8406L517.1387 333.3244" />
+    <path
+      id="path267_Copy"
+      style="stroke:#000000;stroke-width:3px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;"
+      d="M306.5493 333.4662L307.2493 190.8395" />
+    <text
+      id="text826"
+      style="text-decoration:none;direction:ltr;fill:#000000;stroke:none;font-size:32px;"
+      x="275.347"
+      y="264.9228">b</text>
+    <text
+      id="text826_Copy"
+      style="font-size:32px;text-decoration:none;direction:ltr;fill:#000000;stroke:none;"
+      x="414.22482"
+      y="359.4135">a</text>
+    <text
+      id="text681"
+      style="fill:#000000;stroke:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="231.23523"
+      y="20.12122">imaginary</text>
+    <text
+      id="text504"
+      style="font-size:32px;text-decoration:none;direction:ltr;fill:#000000;stroke:none;"
+      x="567.2259"
+      y="361.7674">real</text>
+    <ellipse
+      id="ellipse447"
+      style="stroke-linejoin:miter;fill:#FF0000;fill-opacity:1;stroke:none;fill-rule:nonzero;stroke-linecap:butt;"
+      cx="427.1763"
+      cy="113.71506"
+      rx="6.387165"
+      ry="6.3240423" />
+    <ellipse
+      id="ellipse447_Copy"
+      style="stroke-linejoin:miter;fill:#0000FF;fill-opacity:1;stroke:none;fill-rule:nonzero;stroke-linecap:butt;"
+      cx="514.9417"
+      cy="194.41888"
+      rx="6.387165"
+      ry="6.3240423" />
+    <text
+      id="text946_Copy"
+      style="direction:ltr;fill:#000000;stroke:none;font-size:24px;text-decoration:none;"
+      x="516.9346"
+      y="158.3087">t</text>
+    <text
+      id="text946_Copy_Copy-17"
+      style="text-decoration:none;direction:ltr;fill:#000000;stroke:none;font-size:24px;"
+      x="334.34216"
+      y="55.07506">t+1</text>
+    <text
+      id="text946_Copy_Copy-15"
+      style="fill:#000000;stroke:none;font-size:32px;text-decoration:none;direction:ltr;"
+      x="473.89252"
+      y="146.20312">ω</text>
+    <text
+      id="text946_Copy_Copy"
+      style="direction:ltr;fill:#000000;stroke:none;font-size:32px;text-decoration:none;"
+      x="323.43307"
+      y="74.32824">z = (a - ωb) + i(b + ωa)</text>
+    <text
+      id="text946_Copy_Copy_Copy"
+      style="text-decoration:none;direction:ltr;fill:#000000;stroke:none;font-size:32px;"
+      x="504.6804"
+      y="176.14859">z = a + ib</text>
+    <path
+      id="path812"
+      style="stroke:none;fill-opacity:1;fill:#FF0000;fill-rule:nonzero;"
+      d="" />
+    <path
+      id="path653"
+      style="stroke:#000000;fill:none;fill-rule:nonzero;stroke-opacity:1;stroke-width:2px;stroke-linejoin:miter;stroke-dasharray:2,2;marker-end:url(#Arrow2Mend);stroke-linecap:butt;"
+      d="M512.0782 189.263L433.7283 118.6471" />
+    <path
+      id="path819"
+      style="stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;fill:none;marker-end:url(#Arrow2Mend);stroke-opacity:1;"
+      d="M402.2131 81.90538L422.8652 104.1877" />
+  </g>
+</svg>

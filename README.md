@@ -1,2 +1,4 @@
 # figs
-Figures with source files, for various diagrams
+
+Figures with source files, for https://wavereality.org figures.
+
